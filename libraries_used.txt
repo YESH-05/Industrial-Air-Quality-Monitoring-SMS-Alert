@@ -1,0 +1,5 @@
+ESP32 board package (Arduino IDE Boards Manager)
+Adafruit BME280 Library
+Adafruit Unified Sensor
+LiquidCrystal_I2C (ESP32-compatible implementation)
+Built-in ESP32/Arduino libraries: WiFi, WiFiClientSecure, HTTPClient, Wire
