@@ -44,10 +44,16 @@ The sketch sends an HTTPS POST to the Twilio Messages API. A Twilio account, val
 - The initial example uses `tlsClient.setInsecure()` for quick testing. Replace this with certificate validation before real deployment.
 - Keep credentials private. Never upload real Wi-Fi passwords, Twilio tokens or private phone numbers.
 
-## Repository contents
-- `Code/`: ESP32 Arduino sketch
-- `Circuit/`: wiring notes
-- `Documentation/`: working principle and components
-- `Libraries/`: dependency list
-- `Results/`: test record template
-- `Images/`: add actual prototype photographs
+- ## Project Gallery
+
+### Hardware Implementation
+![Hardware Prototype](Images/HARDWARE.jpeg)
+
+### SMS Alert Notification
+![Twilio SMS Alert](Images/TWILO.jpeg)
+
+### Project Demonstration
+[Watch Project Demonstration Video](Images/VIDEO%20OP.mp4)
+
+## Author
+Yeshwanth V
